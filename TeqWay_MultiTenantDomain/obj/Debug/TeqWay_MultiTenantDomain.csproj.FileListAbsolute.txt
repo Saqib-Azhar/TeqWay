@@ -1,0 +1,5 @@
+E:\S. A. Azhar\TeqWays\TeqWay_MultiTenantDomain\bin\Debug\SimpleLogix_MultiTenantDomain.dll
+E:\S. A. Azhar\TeqWays\TeqWay_MultiTenantDomain\bin\Debug\SimpleLogix_MultiTenantDomain.pdb
+E:\S. A. Azhar\TeqWays\TeqWay_MultiTenantDomain\obj\Debug\TeqWay_MultiTenantDomain.csprojResolveAssemblyReference.cache
+E:\S. A. Azhar\TeqWays\TeqWay_MultiTenantDomain\obj\Debug\SimpleLogix_MultiTenantDomain.dll
+E:\S. A. Azhar\TeqWays\TeqWay_MultiTenantDomain\obj\Debug\SimpleLogix_MultiTenantDomain.pdb
